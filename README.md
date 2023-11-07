@@ -1,10 +1,10 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Facundo Flores</a> 💻👋</h1>
 
 ---
-Información Personal: 
 
 
----
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
